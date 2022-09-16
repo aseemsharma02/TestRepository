@@ -5,7 +5,7 @@ phases:
         runtime-versions:
             nodejs: 10
         commands:
-            - echo "why installing something"
+            - echo "who is installing something"
     pre_build:
         commands: 
             - echo "This is the pre build phase"
